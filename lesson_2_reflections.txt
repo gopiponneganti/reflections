@@ -21,3 +21,7 @@ by looking at the diagram we can under stand which commits are not reachable and
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 all the commits in the two branches will get merged into one
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+automatic merging shows only conflicts, manual merging is time consuming
